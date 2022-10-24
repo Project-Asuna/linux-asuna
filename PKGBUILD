@@ -1,8 +1,8 @@
 # Maintainer: Rodney van den Velden <rodney@dfagaming.nl>
 
 pkgbase=linux-asuna
-_tag=v6.0
-pkgver=6.0
+_tag=v6.1-rc2
+pkgver=6.1_rc2
 pkgrel=1
 pkgdesc="Linux for Project Asuna"
 arch=(x86_64)
